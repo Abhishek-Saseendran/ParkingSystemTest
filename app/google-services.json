@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "365465683851",
+    "project_id": "smart-parking-5ac0e",
+    "storage_bucket": "smart-parking-5ac0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365465683851:android:7d5672f5f6ee9785f9118e",
+        "android_client_info": {
+          "package_name": "com.abhishek.parkingsystemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365465683851-ehs0patsn3md7or3gaccsion3m3pkjtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG2bdRpJPxzVRDqIBUhUpZDBMnyMweZ9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365465683851-ehs0patsn3md7or3gaccsion3m3pkjtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365465683851:android:ba788fcdf8176fbff9118e",
+        "android_client_info": {
+          "package_name": "com.abhishek.parkingsystemtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365465683851-ehs0patsn3md7or3gaccsion3m3pkjtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG2bdRpJPxzVRDqIBUhUpZDBMnyMweZ9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365465683851-ehs0patsn3md7or3gaccsion3m3pkjtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
